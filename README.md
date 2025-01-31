@@ -1,6 +1,5 @@
 # Hi, I’m jefyokta
 
-Have been studying at UIN SUSKA since 2022
 
 
 ![jefyokta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jefyokta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
